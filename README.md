@@ -1,2 +1,2 @@
 # webapp-mongo-project
-this project uses mongodp and mongoexpress image from docker hub
+This Project uses mongoDB and mongoexpress image from Docker hub
